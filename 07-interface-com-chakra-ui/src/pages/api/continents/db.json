@@ -1,0 +1,154 @@
+[
+    {
+        "id": 1,
+        "slug": "america",
+        "name": "América",
+        "subtitle": "A América é o continente localizado no hemisfério ocidental.",
+        "description": "América (algumas vezes usado o termo Américas) (em aimará: Amërika, em castelhano: América, em francês: Amérique, em guarani: Amérika, em inglês: Americas, em neerlandês: Amerika, em quíchua: Amirika) é o continente localizado no hemisfério ocidental e que se estende, no sentido norte-sul, desde o oceano Ártico até o cabo Horn, ao longo de cerca de 15 mil quilômetros.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/ACONCAGUA-2010.JPG/1200px-ACONCAGUA-2010.JPG",
+        "countries": 25,
+        "languages": 45,
+        "topCities": [
+            {
+                "city": "Londres",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/London_City_Hall.jpg/330px-London_City_Hall.jpg",
+                "country": "Reino Unido",
+                "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/435px-Flag_of_the_United_Kingdom.svg.png"
+            },
+            {
+                "city": "Roma",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Prospettiva_su_via_della_Conciliazione_e_San_Pietro_da_Castel_Sant%27Angelo_-_panoramio.jpg/255px-Prospettiva_su_via_della_Conciliazione_e_San_Pietro_da_Castel_Sant%27Angelo_-_panoramio.jpg",
+                "country": "Itália",
+                "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/188px-Flag_of_Italy.svg.png"
+            },
+            {
+                "city": "Praga",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Prague_from_Powder_Tower_01.jpg/375px-Prague_from_Powder_Tower_01.jpg",
+                "country": "República Tcheca",
+                "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/225px-Flag_of_the_Czech_Republic.svg.png"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "slug": "asia",
+        "name": "Ásia",
+        "subtitle": "A Ásia é o maior dos continentes, tanto em área como em população.",
+        "description": "A Ásia é o maior dos continentes, tanto em área como em população. Abrange um terço das partes sólidas da superfície da Terra e é responsável por abrigar quase três quintos da população mundial. A Ásia faz fronteira no lado ocidental com a África e com a Europa, e no lado oriental com o oceano Pacífico, a Oceania e, em menor proporção, com a América do Norte, pelo Estreito de Bering. ",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Pudong_Skyline%2C_Shanghai%2C_PRC.jpg",
+        "countries": 30,
+        "languages": 25,
+        "topCities": [
+            {
+                "city": "Londres",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/London_City_Hall.jpg/330px-London_City_Hall.jpg",
+                "country": "Reino Unido",
+                "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/435px-Flag_of_the_United_Kingdom.svg.png"
+            },
+            {
+                "city": "Amsterdã",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amsterdam_Munttoren_1900.jpg/330px-Amsterdam_Munttoren_1900.jpg",
+                "country": "Holanda",
+                "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/188px-Flag_of_the_Netherlands.svg.png"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "slug": "africa",
+        "name": "África",
+        "subtitle": "A África é o terceiro continente mais extenso com cerca de 30 milhões de quilômetros quadrados.",
+        "description": "A África é o terceiro continente mais extenso (depois da Ásia e da América) com cerca de 30 milhões de quilômetros quadrados, cobrindo 20,3% da área total da terra firme do planeta. É o segundo continente mais populoso da Terra (atrás da Ásia) com cerca de um bilhão de pessoas (estimativa para 2005), representando cerca de um sétimo da população mundial, e 54 países independentes. Tem se transformado na ultima década em uma continente cada vez mais católico.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Zebras%2C_Serengeti_savana_plains%2C_Tanzania.jpg",
+        "countries": 85,
+        "languages": 30,
+        "topCities": [
+            {
+                "city": "Londres",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/London_City_Hall.jpg/330px-London_City_Hall.jpg",
+                "country": "Reino Unido",
+                "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/435px-Flag_of_the_United_Kingdom.svg.png"
+            },
+            {
+                "city": "Paris",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg/330px-Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg",
+                "country": "França",
+                "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/188px-Flag_of_France.svg.png"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "slug": "europa",
+        "name": "Europa",
+        "subtitle": "O continente mais antigo.",
+        "description": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Wa%C5%82y_Chrobrego4.JPG/1280px-Wa%C5%82y_Chrobrego4.JPG",
+        "countries": 50,
+        "languages": 60,
+        "topCities": [
+            {
+                "city": "Londres",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/London_City_Hall.jpg/330px-London_City_Hall.jpg",
+                "country": "Reino Unido",
+                "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/435px-Flag_of_the_United_Kingdom.svg.png"
+            },
+            {
+                "city": "Paris",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg/330px-Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg",
+                "country": "França",
+                "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/188px-Flag_of_France.svg.png"
+            },
+            {
+                "city": "Roma",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Prospettiva_su_via_della_Conciliazione_e_San_Pietro_da_Castel_Sant%27Angelo_-_panoramio.jpg/255px-Prospettiva_su_via_della_Conciliazione_e_San_Pietro_da_Castel_Sant%27Angelo_-_panoramio.jpg",
+                "country": "Itália",
+                "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/188px-Flag_of_Italy.svg.png"
+            },
+            {
+                "city": "Praga",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Prague_from_Powder_Tower_01.jpg/375px-Prague_from_Powder_Tower_01.jpg",
+                "country": "República Tcheca",
+                "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/225px-Flag_of_the_Czech_Republic.svg.png"
+            },
+            {
+                "city": "Amsterdã",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amsterdam_Munttoren_1900.jpg/330px-Amsterdam_Munttoren_1900.jpg",
+                "country": "Holanda",
+                "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/188px-Flag_of_the_Netherlands.svg.png"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "slug": "oceania",
+        "name": "Oceania",
+        "subtitle": "Oceania ou Oceânia é uma região geográfica composta por vários grupos de ilhas do oceano Pacífico.",
+        "description": "Oceania ou Oceânia[nota 1] é uma região geográfica composta por vários grupos de ilhas do oceano Pacífico (Polinésia, Melanésia e Micronésia). O termo Oceania foi criado em 1831 pelo explorador francês Dumont d'Urville. O termo é usado hoje em vários idiomas para designar uma região geográfica e política que compreende o continente da Austrália e ilhas do Oceano Pacífico adjacentes.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Blue-laggon-rangiroa.jpg/1280px-Blue-laggon-rangiroa.jpg",
+        "countries": 74,
+        "languages": 48,
+        "topCities": [
+            {
+                "city": "Londres",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/London_City_Hall.jpg/330px-London_City_Hall.jpg",
+                "country": "Reino Unido",
+                "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/435px-Flag_of_the_United_Kingdom.svg.png"
+            },
+
+            {
+                "city": "Roma",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Prospettiva_su_via_della_Conciliazione_e_San_Pietro_da_Castel_Sant%27Angelo_-_panoramio.jpg/255px-Prospettiva_su_via_della_Conciliazione_e_San_Pietro_da_Castel_Sant%27Angelo_-_panoramio.jpg",
+                "country": "Itália",
+                "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/188px-Flag_of_Italy.svg.png"
+            },
+
+            {
+                "city": "Amsterdã",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amsterdam_Munttoren_1900.jpg/330px-Amsterdam_Munttoren_1900.jpg",
+                "country": "Holanda",
+                "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/188px-Flag_of_the_Netherlands.svg.png"
+            }
+        ]
+    }
+]
