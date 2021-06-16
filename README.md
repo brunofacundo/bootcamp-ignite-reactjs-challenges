@@ -7,3 +7,4 @@
 [05 - Criando um projeto do zero](./05-criando-um-projeto-do-zero)  
 [06 - Criando um projeto do zero](./06-criando-um-projeto-do-zero)  
 [07 - Interface com Chakra UI](./07-interface-com-chakra-ui)
+[08 - Upload de imagens](./08-upload-de-imagens)
